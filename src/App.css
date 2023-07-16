@@ -961,12 +961,29 @@ Media Queries for tabs and mobile devices
   .testimonial-slider-item{
     width: 100% !important;
   }
+}
+
+
+@media (max-width: 1000px) {
+
+  .testimonial-slider-item{
+    margin: auto;
+  }
+}
+@media (max-width: 580px) {
+
+.footer img{
+  margin: 20px auto;
+  display: block;
+}
+
+.testimonial-buttons{
+  display: none;
+}
+.testimonial-slider{
+  width: 100%;
+}
+}
   
 
-
-
-
-
-
-}
 

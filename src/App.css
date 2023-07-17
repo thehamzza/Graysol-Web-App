@@ -959,7 +959,17 @@ Media Queries for tabs and mobile devices
   }
 
   .testimonial-slider-item{
-    width: 100% !important;
+    width: 90% !important;
+  }
+
+  .small-screen-button{
+    font-size: 12px !important;
+    height: 50% !important;
+  }
+
+  .navbar-social-icons{
+    width: 35px !important;
+    height: 35px !important;
   }
 }
 

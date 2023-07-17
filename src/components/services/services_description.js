@@ -21,7 +21,7 @@ function ServicesDescription () {
         <div className='container'>
           <div className='row'>
             <div className='col-12'>
-              <div className='skill-bx'>
+              <div className='skill-bx services-desc'>
                 <h2>Web and App Development</h2>
                 <p>
                   In this section, we specialize in creating robust and scalable
@@ -78,7 +78,7 @@ function ServicesDescription () {
         <div className='container'>
           <div className='row'>
             <div className='col-12'>
-              <div className='skill-bx'>
+              <div className='skill-bx services-desc'>
                 <h2>Data Science</h2>
                 <p>
                   Our cloud solutions section focuses on helping businesses
@@ -135,7 +135,7 @@ function ServicesDescription () {
         <div className='container'>
           <div className='row'>
             <div className='col-12'>
-              <div className='skill-bx'>
+              <div className='skill-bx services-desc'>
                 <h2>Custom Software Development</h2>
                 <p>
                   In this section, we specialize in crafting tailor-made
@@ -211,7 +211,7 @@ function ServicesDescription () {
         <div className='container'>
           <div className='row'>
             <div className='col-12'>
-              <div className='skill-bx'>
+              <div className='skill-bx services-desc'>
                 <h2>Cloud Solution</h2>
                 <p>
                   In this section, we specialize in crafting tailor-made

@@ -971,6 +971,11 @@ Media Queries for tabs and mobile devices
     width: 35px !important;
     height: 35px !important;
   }
+  .services-desc h2{
+    font-size: 26px !important;
+  }
+
+ 
 }
 
 
@@ -978,6 +983,16 @@ Media Queries for tabs and mobile devices
 
   .testimonial-slider-item{
     margin: auto;
+  }
+
+  .services-desc{
+    width: 100% !important;
+    text-align: start !important;
+  }
+  .services-desc h2{
+    width: 100% !important;
+    text-align: center !important;
+
   }
 }
 @media (max-width: 580px) {

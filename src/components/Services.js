@@ -8,8 +8,10 @@ import web from '../assets/img/web.png'
 import mobile from '../assets/img/mobile.png'
 import backend from '../assets/img/backend.png'
 import creator from '../assets/img/creator.png'
+import { useNavigate } from 'react-router-dom'
 
 export const Services = () => {
+  const navigate = useNavigate()
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -54,6 +56,10 @@ export const Services = () => {
                   <motion.div
                     variants={fadeIn('right', 'spring', 0.5 * 0, 0.75)}
                     className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+                    onClick={() => {
+                      console.log('clicked')
+                      navigate('/servicesDescription/1')
+                    }}
                   >
                     <div
                       options={{ max: 45, scale: 1, speed: 450 }}
@@ -70,6 +76,10 @@ export const Services = () => {
                   <motion.div
                     variants={fadeIn('right', 'spring', 0.5 * 0, 0.75)}
                     className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+                    onClick={() => {
+                      console.log('clicked')
+                      navigate('/servicesDescription/2')
+                    }}
                   >
                     <div
                       options={{ max: 45, scale: 1, speed: 450 }}
@@ -86,6 +96,10 @@ export const Services = () => {
                   <motion.div
                     variants={fadeIn('right', 'spring', 0.5 * 0, 0.75)}
                     className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+                    onClick={() => {
+                      console.log('clicked')
+                      navigate('/servicesDescription/3')
+                    }}
                   >
                     <div
                       options={{ max: 45, scale: 1, speed: 450 }}
@@ -102,6 +116,10 @@ export const Services = () => {
                   <motion.div
                     variants={fadeIn('right', 'spring', 0.5 * 0, 0.75)}
                     className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+                    onClick={() => {
+                      console.log('clicked')
+                      navigate('/servicesDescription/4')
+                    }}
                   >
                     <div
                       options={{ max: 45, scale: 1, speed: 450 }}

@@ -59,7 +59,7 @@ function ServicesDescription () {
       </section>
 
       <section id='2' ref={myRef2}>
-        <h2>Cloud Solutions</h2>
+        <h2>Data Science</h2>
         <p>
           Our cloud solutions section focuses on helping businesses leverage the
           power of cloud computing to enhance their operations and drive

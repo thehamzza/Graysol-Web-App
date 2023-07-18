@@ -979,6 +979,13 @@ Media Queries for tabs and mobile devices
     font-size: 26px !important;
   }
 
+  .testimonial-buttons .prev{
+    margin-top: -40px !important;
+  }
+  
+  .testimonial-buttons .next{
+    margin-top: -40px !important;
+  }
  
 }
 
@@ -1020,9 +1027,12 @@ Media Queries for tabs and mobile devices
   margin: 20px auto;
   display: block;
 }
+.testimonial-buttons .prev{
+  margin-left: -40px !important;
+}
 
-.testimonial-buttons{
-  display: none;
+.testimonial-buttons .next{
+  margin-right: -40px !important;
 }
 .testimonial-slider{
   width: 100%;

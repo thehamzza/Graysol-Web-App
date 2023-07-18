@@ -933,8 +933,12 @@ Media Queries for tabs and mobile devices
     width: 100%;
   }
 
-  .custom-button-group{
-    display: none !important;
+  .custom-button-group .prev{
+    margin-left: -25px !important;
+  }
+  .custom-button-group .next{
+    margin-right: -25px !important;
+
   }
 
   .skill-slider-item{

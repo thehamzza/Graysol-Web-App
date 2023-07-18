@@ -994,7 +994,22 @@ Media Queries for tabs and mobile devices
     text-align: center !important;
 
   }
+
+
 }
+
+@media (max-width: 990px){
+  .scroll-progress-bar{
+    top: 100px;
+  }
+}
+@media (max-width: 780px){
+  .scroll-progress-bar{
+    top: 28px;
+  }
+}
+
+
 @media (max-width: 580px) {
 
 .footer img{

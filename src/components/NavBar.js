@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
 import logoNoBg from '../assets/img/logoNoBg.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import fiverr_icon from '../assets/img/fiverr_icon_black.svg'
+import fiverr from '../assets/img/fiverr_favicon.png'
 import navIcon3 from '../assets/img/nav-icon3.svg'
 import { HashLink } from 'react-router-hash-link'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
@@ -81,7 +81,7 @@ export const NavBar = () => {
                 className='navbar-social-icons'
                 href='https://www.fiverr.com/itshamza100/'
               >
-                <img src={fiverr_icon} alt='' />
+                <img src={fiverr} alt='' />
               </a>
               <a className='navbar-social-icons' href='#'>
                 <img src={navIcon3} alt='' />

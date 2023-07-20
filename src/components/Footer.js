@@ -1,7 +1,7 @@
 import { Container, Row, Col } from 'react-bootstrap'
 import logo from '../assets/img/logoNoBg.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import fiverr_icon from '../assets/img/fiverr_icon.svg'
+import fiverr_icon from '../assets/img/fiverr_icon_black.svg'
 import navIcon3 from '../assets/img/nav-icon3.svg'
 
 export const Footer = () => {

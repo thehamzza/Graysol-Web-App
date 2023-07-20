@@ -25,16 +25,19 @@ function ServicesDescription () {
                 <h2>Web and App Development</h2>
                 <p>
                   At Gray Solutions, we specialize in web app development, 
-    where our primary focus is on creating exceptional digital experiences for 
-  businesses across diverse industries. With an unwavering commitment to innovation 
-    and user-centric design, our expert team of developers leverages cutting-edge 
-      technologies and industry best practices to build robust, scalable, and user-friendly
-        web applications. Whether it's a customer-facing platform, an internal enterprise tool, 
-          or an e-commerce solution, our web app development services are tailored to suit 
-          the unique needs of each client. By seamlessly blending creativity with functionality, 
-            we empower businesses to engage their target audience, optimize workflows, and achieve their 
-            strategic goals. Through rigorous testing and quality assurance, we ensure that our web applications 
-              perform flawlessly across various devices and platforms, delivering a seamless and satisfying user experience.
+                  where our primary focus is on creating exceptional digital 
+                  experiences for businesses across diverse industries. With 
+                  an unwavering commitment to innovation and user-centric design, 
+                  our expert team of developers leverages cutting-edge technologies 
+                  and industry best practices to build robust, scalable, and user-friendly
+                  web applications. Whether it's a customer-facing platform, an internal enterprise tool, 
+                  or an e-commerce solution, our web app development services are tailored to suit 
+                  the unique needs of each client. By seamlessly blending creativity with 
+                  functionality, we empower businesses to engage their target audience, 
+                  optimize workflows, and achieve their strategic goals. Through rigorous 
+                  testing and quality assurance, we ensure that our web applications perform 
+                  flawlessly across various devices and platforms, delivering a seamless and 
+                  satisfying user experience.
                 </p>
               </div>
             </div>

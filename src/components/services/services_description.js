@@ -52,24 +52,29 @@ function ServicesDescription () {
             <div className='col-12'>
               <div className='skill-bx services-desc'>
                 <h2>Data Science</h2>
+                    <h3> Computer Vision | Machine Learning | Data Engineering </h3>
                 <p>
                 At Gray Solutions, we excel in data science, offering advanced analytics, computer vision, and machine learning services. 
                 Our expert team enables data-driven decisions and a competitive edge.
-                    
-                <h3> Computer Vision: Redefining Visual Perception </h3>
+                   <li>
+                    <br />
                 Our computer vision solutions extract insights from visual data, automating processes and enhancing experiences.
-                  
-                <h3>Machine Learning: Powering Intelligent Decisions</h3>
+                    </li>
+                    <li>
+                    <br />
                 With diverse algorithms and frameworks, our machine learning models drive personalization, 
                 predictive maintenance, and more.
-                  
-                <h3> Data Visualization Tools: Unveiling Data Stories </h3>
+                    </li>
+                    <li>
+                   <br />
                 We utilize tools like Matplotlib and Tableau to present complex data intuitively, aiding informed decisions.
-                  
-                <h3> Data Engineering: Seamless Data Flow and Analysis </h3>
+                    </li>
+                    <li>
+                   <br />
                 Our data engineering services ensure efficient data flow, storage, and analysis for successful data-driven endeavors.
                 At Gray Solutions, we deliver comprehensive data solutions, build powerful data pipelines, unlocking innovation 
                 and growth for our clients.
+                  </li>
                 </p>
               </div>
             </div>

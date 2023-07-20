@@ -1,7 +1,7 @@
 import { Container, Row, Col } from 'react-bootstrap'
 import logo from '../assets/img/logoNoBg.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import fiverr_icon from '../assets/img/fiverr_icon_black.svg'
+import fiverr from '../assets/img/fiverr_favicon.png'
 import navIcon3 from '../assets/img/nav-icon3.svg'
 
 export const Footer = () => {
@@ -18,7 +18,7 @@ export const Footer = () => {
                 <img src={navIcon1} alt='Icon' />
               </a>
               <a href='https://www.fiverr.com/itshamza100/'>
-                <img src={fiverr_icon} alt='Icon' />
+                <img src={fiverr} alt='Icon' />
               </a>
               <a href='#'>
                 <img src={navIcon3} alt='Icon' />

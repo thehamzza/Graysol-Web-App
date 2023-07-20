@@ -57,18 +57,18 @@ function ServicesDescription () {
                 <p>
                 At Gray Solutions, we excel in data science, offering advanced analytics, computer vision, and machine learning services. 
                 Our expert team enables data-driven decisions and a competitive edge.
-                    <br />
+  
                 Our computer vision solutions extract insights from visual data, automating processes and enhancing experiences.
-                    <br />
+                   
                 With diverse algorithms and frameworks, our machine learning models drive personalization, 
                 predictive maintenance, and more.
-                   <br />
+              
                 We utilize tools like Matplotlib and Tableau to present complex data intuitively, aiding informed decisions.
-                   <br />
+                   
                 Our data engineering services ensure efficient data flow, storage, and analysis for successful data-driven endeavors.
                 At Gray Solutions, we deliver comprehensive data solutions, build powerful data pipelines, unlocking innovation 
                 and growth for our clients.
-                  </li>
+               
                 </p>
               </div>
             </div>

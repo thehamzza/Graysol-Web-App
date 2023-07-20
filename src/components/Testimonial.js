@@ -1,6 +1,8 @@
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
 import yaruq from '../assets/img/yaruq_nadeem.jpeg'
+import lior from '../assets/img/lior_image.jpg'
+import ionut from '../assets/img/ionut_panait_image.jpg'
 import { StarFill } from 'react-bootstrap-icons'
 
 export const Testimonial = () => {
@@ -48,7 +50,7 @@ export const Testimonial = () => {
                   <div class='card p-3 text-center px-4'>
                     <div class='user-content'>
                       <img
-                        src={yaruq}
+                        src={lior}
                         className='w-16 h-16 m-auto rounded-full'
                         alt=''
                       />
@@ -107,7 +109,7 @@ export const Testimonial = () => {
                   <div class='card p-3 text-center px-4'>
                     <div class='user-content'>
                       <img
-                        src={yaruq}
+                        src={ionut}
                         className='w-16 h-16 m-auto rounded-full'
                         alt=''
                       />

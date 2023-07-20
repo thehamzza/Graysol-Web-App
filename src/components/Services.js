@@ -88,7 +88,8 @@ export const Services = () => {
                       <img src={mobile} className='w-16 h-16 object-contain' />
                       <h5 className='text-white text-[18px] font-bold'>
                         Data Science
-                        <h7>Machine Learning & Computer Vision</h7>
+                        <br />
+                        <h6>Machine Learning & Computer Vision</h6>
                       </h5>
                     </div>
                   </motion.div>

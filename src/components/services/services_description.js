@@ -53,21 +53,23 @@ function ServicesDescription () {
               <div className='skill-bx services-desc'>
                 <h2>Data Science</h2>
                 <p>
-                  Our cloud solutions section focuses on helping businesses
-                  leverage the power of cloud computing to enhance their
-                  operations and drive innovation. We have extensive expertise
-                  in designing, deploying, and managing cloud-based
-                  infrastructures using leading platforms such as managing
-                  cloud-based infrastructures using leading platforms such as
-                  managing cloud-based infrastructures using leading platforms
-                  such as Amazon Web Services (AWS), Microsoft Azure, and Google
-                  Cloud. Our team works closely with you to understand your
-                  specific requirements and develops scalable and secure cloud
-                  architectures that optimize performance, reliability, and
-                  cost-efficiency. Whether it's migrating existing applications
-                  to the cloud, developing cloud-native solutions, or
-                  implementing hybrid cloud strategies, we ensure seamless
-                  integration and provide ongoing support to help your business
+                At Gray Solutions, we excel in data science, offering advanced analytics, computer vision, and machine learning services. 
+                Our expert team enables data-driven decisions and a competitive edge.
+                    
+                <h3> Computer Vision: Redefining Visual Perception </h3>
+                Our computer vision solutions extract insights from visual data, automating processes and enhancing experiences.
+                  
+                <h3>Machine Learning: Powering Intelligent Decisions</h3>
+                With diverse algorithms and frameworks, our machine learning models drive personalization, 
+                predictive maintenance, and more.
+                  
+                <h3> Data Visualization Tools: Unveiling Data Stories </h3>
+                We utilize tools like Matplotlib and Tableau to present complex data intuitively, aiding informed decisions.
+                  
+                <h3> Data Engineering: Seamless Data Flow and Analysis </h3>
+                Our data engineering services ensure efficient data flow, storage, and analysis for successful data-driven endeavors.
+                At Gray Solutions, we deliver comprehensive data solutions, build powerful data pipelines, unlocking innovation 
+                and growth for our clients.
                 </p>
               </div>
             </div>

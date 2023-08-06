@@ -12,7 +12,7 @@ export const Projects = () => {
     {
       title: 'Human Force',
       description: 'Humanforce provides the market-leading, employee-centred, intelligent and compliant HCM suite for frontline and flexible workforces.',
-      imgUrl: projImg1,
+      imgUrl: projImg3,
       link: 'https://info.humanforce.com/landing-page-v2'
     },
     {
@@ -24,7 +24,7 @@ export const Projects = () => {
     {
       title: 'City Book',
       description: 'Exploring destinations, food and culture around the world',
-      imgUrl: projImg3,
+      imgUrl: projImg1,
       link: 'https://www.citybook.pk'
     }
   ]

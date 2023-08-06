@@ -17,7 +17,7 @@ export const Projects = () => {
     },
     {
       title: 'Click Drop',
-      description: 'Ebay e-comerce Tool',
+      description: 'Ebay E-commerce Tool to hunt products',
       imgUrl: projImg2,
       link: 'https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nuqr3hh2bj6xllvtdsst'
     },

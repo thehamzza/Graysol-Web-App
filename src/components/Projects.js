@@ -10,22 +10,22 @@ import TrackVisibility from 'react-on-screen'
 export const Projects = () => {
   const projects = [
     {
-      title: 'Business Startup',
-      description: 'Description',
+      title: 'Human Force',
+      description: 'Humanforce provides the market-leading, employee-centred, intelligent and compliant HCM suite for frontline and flexible workforces.',
       imgUrl: projImg1,
-      link: 'https://github.com/ALIRAZA17/Coffee-Masters-App'
+      link: 'https://info.humanforce.com/landing-page-v2'
     },
     {
-      title: 'Business Startup',
-      description: 'Description',
+      title: 'Click Drop',
+      description: 'Ebay e-comerce Tool',
       imgUrl: projImg2,
-      link: 'https://github.com/ALIRAZA17/Coffee-Masters-App'
+      link: 'https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/nuqr3hh2bj6xllvtdsst'
     },
     {
-      title: 'Business Startup',
-      description: 'Description',
+      title: 'City Book',
+      description: 'Exploring destinations, food and culture around the world',
       imgUrl: projImg3,
-      link: 'https://github.com/ALIRAZA17/Coffee-Masters-App'
+      link: 'https://www.citybook.pk'
     }
   ]
 

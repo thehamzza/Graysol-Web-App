@@ -33,13 +33,13 @@ export const Projects = () => {
      {
       title: 'Personal Branding Site',
       description: 'Website built using wordpress for Samael Tejada, who is a renowned entreprenuer, businessman and author of a book',
-      imgUrl: projImg1,
+      imgUrl: projImg4,
       link: 'https://www.samtejada.com/home'
     },
      {
       title: 'Apparel Ecommerce Store',
       description: 'Ecommerce store built for Winnergy, an emerging brand from USA',
-      imgUrl: projImg1,
+      imgUrl: projImg5,
       link: 'https://www.winnergy.com'
     }
   ]

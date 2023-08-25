@@ -26,6 +26,18 @@ export const Projects = () => {
       description: 'Exploring destinations, food and culture around the world',
       imgUrl: projImg1,
       link: 'https://www.citybook.pk'
+    },
+     {
+      title: 'Personal Branding Site',
+      description: 'Website built using wordpress for Samael Tejada, who is a renowned entreprenuer, businessman and author of a book',
+      imgUrl: projImg1,
+      link: 'https://www.samtejada.com/home'
+    },
+     {
+      title: 'Apparel Ecommerce Store',
+      description: 'Ecommerce store built for Winnergy, an emerging brand from USA',
+      imgUrl: projImg1,
+      link: 'https://www.winnergy.com'
     }
   ]
 

@@ -134,6 +134,30 @@ export const Services = () => {
                     </div>
                   </motion.div>
                 </Tilt>
+                        
+                <Tilt className='w-3/4 m-auto skill-slider-item'>
+                  <motion.div
+                    variants={fadeIn('right', 'spring', 0.5 * 0, 0.75)}
+                    className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
+                    onClick={() => {
+                      console.log('clicked')
+                      navigate('/servicesDescription/4')
+                    }}
+                  >
+                    <div
+                      options={{ max: 45, scale: 1, speed: 450 }}
+                      className='bg-blue-950 rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col'
+                    >
+                      <img src={mobile} className='w-16 h-16 object-contain' />
+                      <h5 className='text-white text-[18px] font-bold'>
+                        Data Science
+                        <br />
+                        <h6>Wordpress and Shopify Store Development</h6>
+                      </h5>
+                    </div>
+                  </motion.div>
+                </Tilt>
+                        
               </Carousel>
             </div>
           </div>

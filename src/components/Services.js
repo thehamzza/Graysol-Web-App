@@ -38,7 +38,7 @@ export const Services = () => {
           <div className='col-12'>
             <div className='skill-bx'>
               <h2>Services</h2>
-              <p align="justify">
+              <p>
                 We provide a wide range of services to help you achieve your
                 business goals.
               </p>

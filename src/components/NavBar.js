@@ -2,8 +2,8 @@ import { useState, useEffect } from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
 import logoNoBg from '../assets/img/logoNoBg.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import fiverr from '../assets/img/fiverr_favicon.png'
-import navIcon3 from '../assets/img/nav-icon3.svg'
+import fiverr from '../assets/img/fiverr.svg'
+import whatsapp from '../assets/img/whatsapp.svg'
 import { HashLink } from 'react-router-hash-link'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import ServicesDescription from './services/services_description'
@@ -84,7 +84,7 @@ export const NavBar = () => {
                 <img src={fiverr} alt='' />
               </a>
               <a className='navbar-social-icons' href='#'>
-                <img src={navIcon3} alt='' />
+                <img src={whatsapp} alt='' />
               </a>
             </div>
             <HashLink to='#connect'>

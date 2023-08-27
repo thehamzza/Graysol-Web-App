@@ -23,7 +23,7 @@ function ServicesDescription () {
             <div className='col-12'>
               <div className='skill-bx services-desc'>
                 <h2>Web and App Development</h2>
-                <p>
+                <p align="justify">
                   At Gray Solutions, we specialize in web app development, 
                   where our primary focus is on creating exceptional digital 
                   experiences for businesses across diverse industries. With 
@@ -54,7 +54,7 @@ function ServicesDescription () {
                 <h2>Data Science</h2>
                     <br />
                     <h3> Computer Vision | Machine Learning | Data Engineering </h3>
-                <p>
+                <p align="justify">
                 At Gray Solutions, we excel in data science, offering advanced analytics, computer vision, and machine learning services. 
                 Our expert team enables data-driven decisions and a competitive edge.
   
@@ -83,7 +83,7 @@ function ServicesDescription () {
             <div className='col-12'>
               <div className='skill-bx services-desc'>
                 <h2>Custom Software Development</h2>
-                <p>
+                <p align="justify">
                   Understanding that each business has specific requirements, 
                   we offer custom software development services that cater to 
                   a wide range of applications, including desktop apps, specialized 
@@ -108,7 +108,7 @@ function ServicesDescription () {
             <div className='col-12'>
               <div className='skill-bx services-desc'>
                 <h2>Cloud Solution</h2>
-                <p>
+                <p align="justify">
                 In an era of dynamic digital landscapes, businesses need the power 
           of cloud computing to stay competitive and agile. Gray Solutions excels 
             in providing comprehensive cloud solutions that enable organizations to

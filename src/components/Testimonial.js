@@ -65,7 +65,7 @@ export const Testimonial = () => {
                         <StarFill />
                         <StarFill />
                       </div>
-                      <p className='mt-2'>
+                      <p className='mt-2' align="justify">
                         I am a very old client of Hamza, long before this
                         company even exists, he showcased his technical
                         expertise and strong communication skills, which were
@@ -95,7 +95,7 @@ export const Testimonial = () => {
                         <StarFill />
                         <StarFill />
                       </div>
-                      <p className='mt-2'>
+                      <p className='mt-2' align="justify">
                         I am impressed by the results, very responsive
                         communication, delivered a challenging project within a
                         short span of time, with feasibility and technical
@@ -124,7 +124,7 @@ export const Testimonial = () => {
                         <StarFill />
                         <StarFill />
                       </div>
-                      <p className='mt-2'>
+                      <p className='mt-2' align="justify">
                         I am glad I hired them, they were able to showcase their
                         technical expertise and strong communication skills,
                         which were essential to the successful delivery of our

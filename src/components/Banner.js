@@ -71,15 +71,16 @@ export const Banner = () => {
                     Welcome to our Website
                   </span>
                   <h1>Gray Solutions </h1>
-                  <p>
+                  <p align="justify">
                     Gray Solutions is a leading software agency that provides
                     web app development, custom software development, cloud
                     solutions, and IT consultation.
                     <br />
                     Our team of experienced professionals uses cutting-edge
                     technology to optimize business processes, boost
-                    productivity, and drive growth for our clients. We're
-                    committed to building long-term relationships with our
+                    productivity, and drive growth for our clients.
+                    <br />
+                    We're committed to building long-term relationships with our
                     clients and delivering outstanding results.
                   </p>
                   <a href='#connect' className='no-underline'>

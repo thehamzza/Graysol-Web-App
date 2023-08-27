@@ -2,7 +2,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 import logo from '../assets/img/logoNoBg.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
 import fiverr from '../assets/img/fiverr_favicon.png'
-import navIcon3 from '../assets/img/nav-icon3.svg'
+import whatsapp from '../assets/img/whatsapp.svg'
 
 export const Footer = () => {
   return (
@@ -21,7 +21,7 @@ export const Footer = () => {
                 <img src={fiverr} alt='Icon' />
               </a>
               <a href='#'>
-                <img src={navIcon3} alt='Icon' />
+                <img src={whatsapp} alt='Icon' />
               </a>
             </div>
             <p>Gray Solutions Pvt Ltd © 2023. All Rights Reserved</p>

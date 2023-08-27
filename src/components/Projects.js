@@ -57,7 +57,7 @@ export const Projects = () => {
                   }
                 >
                   <h2>Projects</h2>
-                  <p>
+                  <p align="justify">
                     Following projects showcases our skills and experience
                     through real-world examples of our work. Each project is
                     briefly described with links to code repositories and live

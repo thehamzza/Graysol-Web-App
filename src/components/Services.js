@@ -150,9 +150,7 @@ export const Services = () => {
                     >
                       <img src={mobile} className='w-16 h-16 object-contain' />
                       <h5 className='text-white text-[18px] font-bold'>
-                        Data Science
-                        <br />
-                        <h6>Wordpress and Shopify Store Development</h6>
+                        Wordpress & Shopify Store Development
                       </h5>
                     </div>
                   </motion.div>

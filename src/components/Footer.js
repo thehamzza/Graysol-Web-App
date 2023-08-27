@@ -1,7 +1,7 @@
 import { Container, Row, Col } from 'react-bootstrap'
 import logo from '../assets/img/logoNoBg.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import fiverr from '../assets/img/fiverr_favicon.png'
+import fiverr from '../assets/img/fiverr.svg'
 import whatsapp from '../assets/img/whatsapp.svg'
 
 export const Footer = () => {

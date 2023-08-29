@@ -18,7 +18,7 @@ export const Footer = () => {
                 <img src={navIcon1} alt='Icon' />
               </a>
               <a href='https://www.fiverr.com/itshamza100/'>
-                <img src={fiverr} alt='Icon' />
+                <img className='fiver-icon' src={fiverr} alt='Icon'/>
               </a>
               <a href='#'>
                 <img src={whatsapp} alt='Icon' />

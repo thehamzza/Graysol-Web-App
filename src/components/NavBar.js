@@ -83,7 +83,7 @@ export const NavBar = () => {
               >
                 <img src={fiverr} alt='' />
               </a>
-              <a className='navbar-social-icons' href='https://wa.me/923046685004?text=Hi,%20I'm%20interested%20in%20your%20software%20services.'>
+              <a className='navbar-social-icons' href='''https://wa.me/923046685004?text=Hi,%20I'm%20interested%20in%20your%20software%20services.'''>
                 <img src={whatsapp} alt='' />
               </a>
             </div>

@@ -31,7 +31,7 @@ export const Footer = () => {
                 <img src={whatsapp} alt='Icon' />
               </a>
             </div>
-            <p>Gray Solutions Pvt Ltd © 2023. All Rights Reserved</p>
+            <p>Graysol LLC © 2023. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>

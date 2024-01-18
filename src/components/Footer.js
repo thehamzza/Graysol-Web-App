@@ -12,6 +12,15 @@ export const Footer = () => {
           <Col size={12} sm={6}>
             <img src={logo} alt='Logo' />
           </Col>
+
+          <Col>
+          <!-- TrustBox widget - Review Collector -->
+          <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="65a4311021d8fec01af715b5" data-style-height="52px" data-style-width="100%">
+            <a href="https://www.trustpilot.com/review/graysol.co" target="_blank" rel="noopener">Trustpilot</a>
+          </div>
+          <!-- End TrustBox widget -->
+         </Col>
+  
           <Col size={12} sm={6} className='text-center text-sm-end mt-5'>
             <div className='social-icon'>
               <a href='https://www.linkedin.com/company/gray-solutions/'>

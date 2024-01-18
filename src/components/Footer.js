@@ -8,18 +8,18 @@ export const Footer = () => {
   return (
     <footer className='footer'>
       <Container>
-        <Row className='align-items-center justify-content-center footer-logo mt-5'>
+        <Row className='align-items-center justify-content-center footer-logo mt-0'>
           <Col size={12} sm={4} className='text-center'>
             <img src={logo} alt='Logo' />
           </Col>
   
-          <Col size={12} sm={4} className='text-center ext-sm-end mt-5' >
+          <Col size={12} sm={4} className='text-center ext-sm-end mt-2' >
           <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="65a4311021d8fec01af715b5" data-style-height="52px" data-style-width="100%">
             <a href="https://www.trustpilot.com/review/graysol.co" target="_blank" rel="noopener">Trustpilot</a>
           </div>
          </Col>
   
-          <Col size={12} sm={4} className='text-center text-sm-end mt-5'>
+          <Col size={12} sm={4} className='text-center text-sm-end mt-4'>
             <div className='social-icon'>
               <a href='https://www.linkedin.com/company/gray-solutions/'>
                 <img src={navIcon1} alt='Icon' />

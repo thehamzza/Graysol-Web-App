@@ -20,7 +20,7 @@ export const Footer = () => {
               <a href='https://www.fiverr.com/itshamza100/'>
                 <img className='fiver-icon' src={fiverr} alt='Icon'/>
               </a>
-              <a href='''https://wa.me/923046685004'''>
+              <a href='https://wa.me/923046685004'>
                 <img src={whatsapp} alt='Icon' />
               </a>
             </div>

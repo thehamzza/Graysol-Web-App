@@ -8,7 +8,7 @@ export const Footer = () => {
   return (
     <footer className='footer'>
       <Container>
-        <Row className='align-items-center justify-content-center footer-logo'>
+        <Row className='align-items-center justify-content-center footer-logo mt-5'>
           <Col size={12} sm={4} className='text-center'>
             <img src={logo} alt='Logo' />
           </Col>

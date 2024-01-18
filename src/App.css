@@ -122,8 +122,8 @@ span.navbar-text {
     margin-left: 14px;
 }
 .social-icon a {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     background: rgba(217, 217, 217, 0.1);
     display: inline-flex;
     border-radius: 50%;
@@ -135,8 +135,8 @@ span.navbar-text {
 }
 .social-icon a::before {
     content: "";
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     position: absolute;
     background-color: #ffffff;
     border-radius: 50%;

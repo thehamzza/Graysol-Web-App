@@ -9,6 +9,7 @@ import { Footer } from './components/Footer'
 import { Testimonial } from './components/Testimonial'
 import ScrollProgressBar from './components/ScrollProgressBar'
 import { useOutlet } from 'react-router-dom'
+import AnnouncementBar from './components/AnnouncementBar'
 
 function App () {
   const outlet = useOutlet()
@@ -16,6 +17,7 @@ function App () {
     <>
       {outlet || (
         <div className='App'>
+          <AnnouncementBar />
           <NavBar />
           <ScrollProgressBar />
           <Banner />

@@ -6,7 +6,7 @@ const AnnouncementBar = () => {
 
     const tickerVariants = {
         animate: {
-            x: ['-100%', '100%'],
+            x: ['100%', '-100%'],
             transition: {
                 x: {
                     duration: scrollDuration, 
@@ -18,10 +18,35 @@ const AnnouncementBar = () => {
         },
     };
 
+    const announcementStyle = {
+        overflow: 'hidden', 
+        position: 'fixed', 
+        top: 0, 
+        width: '100%', 
+        backgroundColor: 'black', 
+        color: 'white', 
+        textAlign: 'center', 
+        zIndex: 9999,
+        padding: '4px 0',
+        fontSize: '16px',
+        '@media (max-width: 768px)': {
+            fontSize: '4px',
+        },
+    };
+
+    const motionDivStyle = {
+        display: 'flex', 
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center',
+        willChange: 'transform',
+        whiteSpace: 'nowrap',
+    };
+
     return (
-        <div style={{ overflow: 'hidden', position: 'fixed', top: 0, width: '100%', backgroundColor: 'black', color: 'white', textAlign: 'center', zIndex: 9999 }}>
+        <div style={announcementStyle}>
             <motion.div
-                style={{ display: 'flex', flexDirection: 'column', willChange: 'transform' }}
+                style={motionDivStyle}
                 variants={tickerVariants}
                 animate="animate"
             >
